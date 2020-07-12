@@ -2,6 +2,10 @@
 
 I am currently a student of computer science💻
 
+Technologies:
+ - ReactJS
+ - NodeJS
+ - React Native
 
 <!--
 **lucasnetwork/lucasnetwork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
