@@ -11,6 +11,7 @@ Technologies:
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=lucasNetwork&show_icons=true&theme=tokyonight" alt="github status"/>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasNetwork&layout=compact&theme=tokyonight" alt="github languages"/>
 </div>
 
 <!--
