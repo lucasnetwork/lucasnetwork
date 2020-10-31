@@ -1,7 +1,7 @@
 ### Hi there 👋
 👨🏻‍💻About me
  - 🧑🏻 My name is Lucas Santos Ribeiro
- - 👨🏻‍🎓 I am currently a student of computer science
+ - 👨🏻‍🎓  I am currently a student of computer science
  - 🌱 I am currently learning javascript and frameworks
  
 💻 Technologies:
