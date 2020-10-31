@@ -3,7 +3,9 @@
 I am currently a student of computer science💻
 
 Technologies:
- - ReactJS
+<div>
+  <img src="https://img.shields.io/badge/-ReactJS-blue" alt="react"/>
+ </div
  - NodeJS
  - React Native
 
