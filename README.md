@@ -1,14 +1,11 @@
 ### Hi there 👋
-
-I am currently a student of computer science💻
-
-Technologies:
-<div>
-  <img src="https://img.shields.io/badge/-ReactJS-blue" alt="react"/>
- </div
+ - 👨🏻‍💻 My name is Lucas Santos Ribeiro
+ - I am currently a student of computer science
+ - 🌱 I am currently learning javascript and frameworks
+💻 Technologies:
  - NodeJS
  - React Native
-
+ - React 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=lucasNetwork&show_icons=true&theme=tokyonight" alt="github status"/>  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasNetwork&layout=compact&theme=tokyonight" alt="github languages"/>
