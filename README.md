@@ -14,6 +14,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasNetwork&layout=compact&theme=tokyonight" alt="github languages"/>
  <br/>
   <img src="https://www.codewars.com/users/lucasnetwork/badges/small" alt "codewars status"/>
+ <br/>
+ <a href="https://lucassr.medium.com/">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium blog"/>
+ </a>
 </div>
 
 <!--
