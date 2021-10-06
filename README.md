@@ -6,7 +6,7 @@
  
 💻 Technologies:
 <div style="display:flex;flex-direction:row">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+ <img style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
  </div>
  - NodeJS
  - React Native
