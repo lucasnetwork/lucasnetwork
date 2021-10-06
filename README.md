@@ -5,6 +5,9 @@
  - 🌱 I am currently learning javascript and frameworks
  
 💻 Technologies:
+<div style="display:flex;flex-direction:row">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+ </div>
  - NodeJS
  - React Native
  - React 
