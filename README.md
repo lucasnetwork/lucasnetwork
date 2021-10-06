@@ -14,12 +14,14 @@
  <img style="width:50px;height:50px;margin-left:16px;margin-right:16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
  <img style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
  </div>
+  --
  💻 Learning:
 <div style="display:flex;flex-direction:row;margin-top:16px;margin-bottom:32">
  <img style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
  <img style="width:50px;height:50px;margin-left:16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
  <img style="width:50px;height:50px;margin-left:16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
  </div>
+  --
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=lucasNetwork&show_icons=true&theme=tokyonight" alt="github status"/>  
  <br/>
