@@ -12,10 +12,10 @@
  <img style="width:50px;height:50px;margin-left:16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
  <img style="width:50px;height:50px;margin-left:16px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
  <img style="width:50px;height:50px;margin-left:16px;margin-right:16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+ <img style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
  </div>
  💻 Learning:
-<div style="display:flex;flex-direction:row">
+<div style="display:flex;flex-direction:row;margin-top:16px;margin-bottom:32">
  <img style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
  <img style="width:50px;height:50px;margin-left:16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
  <img style="width:50px;height:50px;margin-left:16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
