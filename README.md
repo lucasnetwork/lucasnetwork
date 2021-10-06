@@ -4,21 +4,43 @@
  - 👨🏻‍🎓  I am currently a student of computer science
  - 🌱 I am currently learning javascript and frameworks
  
-💻 Technologies:
- - NodeJS
- - React Native
- - React 
+<br/>
+
+## 💻 Technologies:
+<div style="display:flex;flex-direction:row">
+ <img style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+ <img style="width:50px;height:50px;margin-left:16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+ <img style="width:50px;height:50px;margin-left:16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+ <img style="width:50px;height:50px;margin-left:16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+ <img style="width:50px;height:50px;margin-left:16px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+ <img style="width:50px;height:50px;margin-left:16px;margin-right:16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+ <img style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+ </div>
+<br/>
+
+## 💻 Learning:
+<div style="display:flex;flex-direction:row;margin-top:16px;margin-bottom:32">
+ <img style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+ <img style="width:50px;height:50px;margin-left:16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
+ <img style="width:50px;height:50px;margin-left:16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+ </div>
+<br/>
+<br/>
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=lucasNetwork&show_icons=true&theme=tokyonight" alt="github status"/>  
  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasNetwork&layout=compact&theme=tokyonight" alt="github languages"/>
  <br/>
+<br/>
   <img src="https://www.codewars.com/users/lucasnetwork/badges/small" alt "codewars status"/>
  <br/>
+</div>
+ <br/>
+
+## 💻 Social:
  <a href="https://lucassr.medium.com/">
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium blog"/>
  </a>
-</div>
 
 <!--
 **lucasnetwork/lucasnetwork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
