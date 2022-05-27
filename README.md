@@ -8,13 +8,22 @@
 
 ## 💻 Technologies:
 <div style="display:flex;flex-direction:row">
- <img style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
- <img style="width:50px;height:50px;margin-left:16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
- <img style="width:50px;height:50px;margin-left:16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
- <img style="width:50px;height:50px;margin-left:16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
- <img style="width:50px;height:50px;margin-left:16px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
- <img style="width:50px;height:50px;margin-left:16px;margin-right:16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
- <img style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+ <img style="width:50px;height:50px;" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+ <img style="width:50px;height:50px;margin-left:16px" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+ <img style="width:50px;height:50px;margin-left:16px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+ <img style="width:50px;height:50px;margin-left:16px" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+ <img style="width:50px;height:50px;margin-left:16px" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+ <img style="width:50px;height:50px;margin-left:16px"  src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+ <img style="width:50px;height:50px;margin-left:16px" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+ <img style="width:50px;height:50px;margin-left:16px" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+ <img style="width:50px;height:50px;margin-left:16px;margin-right:16px" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+ </div>
+<br/>
+
+## Bibliotecas
+<div style="display:flex;flex-direction:row">
+ <img src="https://img.shields.io/badge/Formik-0d47a1?style=for-the-badge&logo=Formik&logoColor=white" alt="medium blog"/>
+ <img src="https://img.shields.io/badge/TypeOrm-E83524?style=for-the-badge&logo=Formik&logoColor=white" alt="medium blog"/>
  </div>
 <br/>
 
