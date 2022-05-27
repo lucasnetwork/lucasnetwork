@@ -22,8 +22,10 @@
 
 ## Bibliotecas
 <div style="display:flex;flex-direction:row">
- <img src="https://img.shields.io/badge/Formik-0d47a1?style=for-the-badge&logo=formik&logoColor=white" alt="medium blog"/>
- <img src="https://img.shields.io/badge/TypeOrm-E83524?style=for-the-badge&logo=typeorm&logoColor=white" alt="medium blog"/>
+ <img src="https://img.shields.io/badge/Formik-0d47a1?style=for-the-badge&logo=formik&logoColor=white" alt="formik"/>
+ <img src="https://img.shields.io/badge/TypeOrm-E83524?style=for-the-badge&logo=typeorm&logoColor=white" alt="typeorm"/>
+ <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" alt="eslint"/>
+ <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" alt="prettier"/>
  </div>
 <br/>
 
