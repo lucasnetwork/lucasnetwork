@@ -18,7 +18,7 @@
  
  <img style="margin-left:16px" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 
- <img style="margin-left:16px" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+ <img style="margin-left:16px" src="https://img.shields.io/badge/Rust-000?style=for-the-badge&logo=rust&logoColor=white" />
  </div>
 <h2>Frontend</h2>
 <div style="display:flex;flex-direction:row">
@@ -27,10 +27,7 @@
  <img style="margin-left:16px" src="https://img.shields.io/badge/Next-20232A?style=for-the-badge&logo=nextdotjs&logoColor=fff" />
  <img style="margin-left:16px" src="https://img.shields.io/badge/SolidJs-20232A?style=for-the-badge&logo=solid&logoColor=335d92" />
  </div>
- <h2>Mobile</h2>
- <div>
- 
- <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></div>
+
  <h2>Backend</h2>
  <div style="display:flex;flex-direction:row">
  <img  src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express" />
@@ -38,7 +35,17 @@
  <img style="margin-left:16px" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 
  </div>
+  <h2>Mobile</h2>
+ <div  style="display:flex;flex-direction:row">
+ 
+ <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+ </div>
+ <h2>Cloud</h2>
 
+ <div style="display:flex;flex-direction:row">
+ <img  src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+
+ </div>
 <br/>
 
 ## Libraries
@@ -60,6 +67,11 @@
 <div style="display:flex;flex-direction:row">
  <img src="https://img.shields.io/badge/Formik-0d47a1?style=for-the-badge&logo=formik&logoColor=white" alt="formik"/>
  <img style="margin-left:16px"  src="https://img.shields.io/badge/React Hook Form-0d47a1?style=for-the-badge&logo=reacthookform&logoColor=white" alt="formik"/>
+ </div>
+
+ ### Styling
+ <div> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="formik"/>
+  <img  style="margin-left:16px"  src="https://img.shields.io/badge/Styled_components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white" alt="formik"/>
  </div>
 
  ### Others
@@ -95,7 +107,7 @@
   <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkeding"/>
  </a>
  </div>
-
+<img style="margin-top:32px" src="https://github-readme-stats.vercel.app/api?username=lucasnetwork&theme=blue-green"/>
 <!--
 **lucasnetwork/lucasnetwork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
