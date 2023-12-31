@@ -107,7 +107,8 @@
   <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkeding"/>
  </a>
  </div>
-<img style="margin-top:32px" src="https://github-readme-stats.vercel.app/api?username=lucasnetwork&theme=blue-green"/>
+ <br/>
+<img src="https://github-readme-stats.vercel.app/api?username=lucasnetwork&theme=blue-green"/>
 <!--
 **lucasnetwork/lucasnetwork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
